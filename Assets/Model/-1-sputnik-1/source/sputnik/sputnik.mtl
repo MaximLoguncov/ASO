@@ -1,0 +1,11 @@
+newmtl wire_000000000
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd C:\Users\3dsMax1\Desktop\New folder\New folder\sputnik_wire_000000000_color.png
+map_Ks C:\Users\3dsMax1\Desktop\New folder\New folder\sputnik_wire_000000000_rough.png
+map_bump C:\Users\3dsMax1\Desktop\New folder\New folder\sputnik_wire_000000000_nmap.png

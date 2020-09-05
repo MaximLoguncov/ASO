@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 01ba4e5b39135774589cc60d934d3223
+timeCreated: 1598984196
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cold Gas Thrusters First Stage
+    100002: Cold Gas Thrusters Rotator
+    100004: Engine Cloth
+    100006: Engine Holder Detail Outer
+    100008: Engine Octaweb Rotator
+    100010: Engine Rotator
+    100012: Fairing
+    100014: Fairing 1
+    100016: Fairing 1 Detail
+    100018: Fairing 2
+    100020: Fairing 2 Detail
+    100022: First Stage
+    100024: First Stage Bottom Things
+    100026: Grid Fin Controllers
+    100028: Grid Fin Curve
+    100030: Grid Fin Holders
+    100032: Grid fin Rotator
+    100034: Grid Fins
+    100036: Interstage
+    100038: Interstage Engine holder
+    100040: Interstage Engine holder extra
+    100042: Landing Leg 1
+    100044: Landing Leg 1 Hydraulic Attachment
+    100046: Landing Leg 2
+    100048: Landing Leg 2 Hydraulic Attachment
+    100050: Landing Leg 3
+    100052: Landing Leg 3 Hydraulic Attachment
+    100054: Landing Leg 4
+    100056: Landing Leg 4 Hydraulic Attachment
+    100058: Landing Leg Clamps
+    100060: Landing Leg Detail Rotator
+    100062: Landing Leg Holder Rotator
+    100064: Landing Leg Holders
+    100066: Landing Leg Hydraulic 1.001
+    100068: Landing Leg Hydraulic 1.002
+    100070: Landing Leg Hydraulic 1.003
+    100072: Landing Leg Hydraulic 1.004
+    100074: Landing Leg Hydraulic 2.001
+    100076: Landing Leg Hydraulic 2.002
+    100078: Landing Leg Hydraulic 2.003
+    100080: Landing Leg Hydraulic 2.004
+    100082: Landing Leg Hydraulic 3.001
+    100084: Landing Leg Hydraulic 3.002
+    100086: Landing Leg Hydraulic 3.003
+    100088: Landing Leg Hydraulic 3.004
+    100090: Landing Leg Hydraulic 4.001
+    100092: Landing Leg Hydraulic 4.002
+    100094: Landing Leg Hydraulic 4.003
+    100096: Landing Leg Hydraulic 4.004
+    100098: Landing Leg Hydraulic Holder 1
+    100100: Landing Leg Hydraulic Holder 2
+    100102: Landing Leg Hydraulic Holder 3
+    100104: Landing Leg Hydraulic Holder 4
+    100106: Landing Leg Rotator
+    100108: Merlin 1D Engine Center
+    100110: Merlin 1D Engine Center.001
+    100112: Merlin 1D Engine Outer
+    100114: Octaweb
+    100116: Raceway First Stage
+    100118: Raceway Holders 1 First Stage
+    100120: Raceway Holders 2 First Stage
+    100122: Raceway Main Detail 2 First Stage
+    100124: Raceway Main Detail First Stage
+    100126: Raceway Main First Stage
+    100128: Second Stage
+    100130: Second Stage Detacher Interstage
+    100132: Second Stage Detacher Rotator
+    100134: Second Stage Detacher Stage
+    100136: Second Stage Raceway Rotator
+    100138: Second Stage Raceways
+    100140: //RootNode
+    400000: Cold Gas Thrusters First Stage
+    400002: Cold Gas Thrusters Rotator
+    400004: Engine Cloth
+    400006: Engine Holder Detail Outer
+    400008: Engine Octaweb Rotator
+    400010: Engine Rotator
+    400012: Fairing
+    400014: Fairing 1
+    400016: Fairing 1 Detail
+    400018: Fairing 2
+    400020: Fairing 2 Detail
+    400022: First Stage
+    400024: First Stage Bottom Things
+    400026: Grid Fin Controllers
+    400028: Grid Fin Curve
+    400030: Grid Fin Holders
+    400032: Grid fin Rotator
+    400034: Grid Fins
+    400036: Interstage
+    400038: Interstage Engine holder
+    400040: Interstage Engine holder extra
+    400042: Landing Leg 1
+    400044: Landing Leg 1 Hydraulic Attachment
+    400046: Landing Leg 2
+    400048: Landing Leg 2 Hydraulic Attachment
+    400050: Landing Leg 3
+    400052: Landing Leg 3 Hydraulic Attachment
+    400054: Landing Leg 4
+    400056: Landing Leg 4 Hydraulic Attachment
+    400058: Landing Leg Clamps
+    400060: Landing Leg Detail Rotator
+    400062: Landing Leg Holder Rotator
+    400064: Landing Leg Holders
+    400066: Landing Leg Hydraulic 1.001
+    400068: Landing Leg Hydraulic 1.002
+    400070: Landing Leg Hydraulic 1.003
+    400072: Landing Leg Hydraulic 1.004
+    400074: Landing Leg Hydraulic 2.001
+    400076: Landing Leg Hydraulic 2.002
+    400078: Landing Leg Hydraulic 2.003
+    400080: Landing Leg Hydraulic 2.004
+    400082: Landing Leg Hydraulic 3.001
+    400084: Landing Leg Hydraulic 3.002
+    400086: Landing Leg Hydraulic 3.003
+    400088: Landing Leg Hydraulic 3.004
+    400090: Landing Leg Hydraulic 4.001
+    400092: Landing Leg Hydraulic 4.002
+    400094: Landing Leg Hydraulic 4.003
+    400096: Landing Leg Hydraulic 4.004
+    400098: Landing Leg Hydraulic Holder 1
+    400100: Landing Leg Hydraulic Holder 2
+    400102: Landing Leg Hydraulic Holder 3
+    400104: Landing Leg Hydraulic Holder 4
+    400106: Landing Leg Rotator
+    400108: Merlin 1D Engine Center
+    400110: Merlin 1D Engine Center.001
+    400112: Merlin 1D Engine Outer
+    400114: Octaweb
+    400116: Raceway First Stage
+    400118: Raceway Holders 1 First Stage
+    400120: Raceway Holders 2 First Stage
+    400122: Raceway Main Detail 2 First Stage
+    400124: Raceway Main Detail First Stage
+    400126: Raceway Main First Stage
+    400128: Second Stage
+    400130: Second Stage Detacher Interstage
+    400132: Second Stage Detacher Rotator
+    400134: Second Stage Detacher Stage
+    400136: Second Stage Raceway Rotator
+    400138: Second Stage Raceways
+    400140: //RootNode
+    2300000: Cold Gas Thrusters First Stage
+    2300002: Engine Cloth
+    2300004: Engine Holder Detail Outer
+    2300006: Fairing 1
+    2300008: Fairing 1 Detail
+    2300010: Fairing 2
+    2300012: Fairing 2 Detail
+    2300014: First Stage
+    2300016: First Stage Bottom Things
+    2300018: Grid Fin Controllers
+    2300020: Grid Fin Curve
+    2300022: Grid Fin Holders
+    2300024: Grid Fins
+    2300026: Interstage
+    2300028: Interstage Engine holder
+    2300030: Interstage Engine holder extra
+    2300032: Landing Leg 1
+    2300034: Landing Leg 1 Hydraulic Attachment
+    2300036: Landing Leg 2
+    2300038: Landing Leg 2 Hydraulic Attachment
+    2300040: Landing Leg 3
+    2300042: Landing Leg 3 Hydraulic Attachment
+    2300044: Landing Leg 4
+    2300046: Landing Leg 4 Hydraulic Attachment
+    2300048: Landing Leg Clamps
+    2300050: Landing Leg Holders
+    2300052: Landing Leg Hydraulic 1.001
+    2300054: Landing Leg Hydraulic 1.002
+    2300056: Landing Leg Hydraulic 1.003
+    2300058: Landing Leg Hydraulic 1.004
+    2300060: Landing Leg Hydraulic 2.001
+    2300062: Landing Leg Hydraulic 2.002
+    2300064: Landing Leg Hydraulic 2.003
+    2300066: Landing Leg Hydraulic 2.004
+    2300068: Landing Leg Hydraulic 3.001
+    2300070: Landing Leg Hydraulic 3.002
+    2300072: Landing Leg Hydraulic 3.003
+    2300074: Landing Leg Hydraulic 3.004
+    2300076: Landing Leg Hydraulic 4.001
+    2300078: Landing Leg Hydraulic 4.002
+    2300080: Landing Leg Hydraulic 4.003
+    2300082: Landing Leg Hydraulic 4.004
+    2300084: Landing Leg Hydraulic Holder 1
+    2300086: Landing Leg Hydraulic Holder 2
+    2300088: Landing Leg Hydraulic Holder 3
+    2300090: Landing Leg Hydraulic Holder 4
+    2300092: Merlin 1D Engine Center
+    2300094: Merlin 1D Engine Center.001
+    2300096: Merlin 1D Engine Outer
+    2300098: Octaweb
+    2300100: Raceway First Stage
+    2300102: Raceway Holders 1 First Stage
+    2300104: Raceway Holders 2 First Stage
+    2300106: Raceway Main Detail 2 First Stage
+    2300108: Raceway Main Detail First Stage
+    2300110: Raceway Main First Stage
+    2300112: Second Stage
+    2300114: Second Stage Detacher Interstage
+    2300116: Second Stage Detacher Stage
+    2300118: Second Stage Raceways
+    3300000: Cold Gas Thrusters First Stage
+    3300002: Engine Cloth
+    3300004: Engine Holder Detail Outer
+    3300006: Fairing 1
+    3300008: Fairing 1 Detail
+    3300010: Fairing 2
+    3300012: Fairing 2 Detail
+    3300014: First Stage
+    3300016: First Stage Bottom Things
+    3300018: Grid Fin Controllers
+    3300020: Grid Fin Curve
+    3300022: Grid Fin Holders
+    3300024: Grid Fins
+    3300026: Interstage
+    3300028: Interstage Engine holder
+    3300030: Interstage Engine holder extra
+    3300032: Landing Leg 1
+    3300034: Landing Leg 1 Hydraulic Attachment
+    3300036: Landing Leg 2
+    3300038: Landing Leg 2 Hydraulic Attachment
+    3300040: Landing Leg 3
+    3300042: Landing Leg 3 Hydraulic Attachment
+    3300044: Landing Leg 4
+    3300046: Landing Leg 4 Hydraulic Attachment
+    3300048: Landing Leg Clamps
+    3300050: Landing Leg Holders
+    3300052: Landing Leg Hydraulic 1.001
+    3300054: Landing Leg Hydraulic 1.002
+    3300056: Landing Leg Hydraulic 1.003
+    3300058: Landing Leg Hydraulic 1.004
+    3300060: Landing Leg Hydraulic 2.001
+    3300062: Landing Leg Hydraulic 2.002
+    3300064: Landing Leg Hydraulic 2.003
+    3300066: Landing Leg Hydraulic 2.004
+    3300068: Landing Leg Hydraulic 3.001
+    3300070: Landing Leg Hydraulic 3.002
+    3300072: Landing Leg Hydraulic 3.003
+    3300074: Landing Leg Hydraulic 3.004
+    3300076: Landing Leg Hydraulic 4.001
+    3300078: Landing Leg Hydraulic 4.002
+    3300080: Landing Leg Hydraulic 4.003
+    3300082: Landing Leg Hydraulic 4.004
+    3300084: Landing Leg Hydraulic Holder 1
+    3300086: Landing Leg Hydraulic Holder 2
+    3300088: Landing Leg Hydraulic Holder 3
+    3300090: Landing Leg Hydraulic Holder 4
+    3300092: Merlin 1D Engine Center
+    3300094: Merlin 1D Engine Center.001
+    3300096: Merlin 1D Engine Outer
+    3300098: Octaweb
+    3300100: Raceway First Stage
+    3300102: Raceway Holders 1 First Stage
+    3300104: Raceway Holders 2 First Stage
+    3300106: Raceway Main Detail 2 First Stage
+    3300108: Raceway Main Detail First Stage
+    3300110: Raceway Main First Stage
+    3300112: Second Stage
+    3300114: Second Stage Detacher Interstage
+    3300116: Second Stage Detacher Stage
+    3300118: Second Stage Raceways
+    4300000: Second Stage
+    4300002: Second Stage Raceways
+    4300004: Second Stage Detacher Stage
+    4300006: Merlin 1D Engine Center.001
+    4300008: First Stage
+    4300010: Interstage
+    4300012: Grid Fin Curve
+    4300014: Grid Fin Controllers
+    4300016: Grid Fins
+    4300018: Cold Gas Thrusters First Stage
+    4300020: Interstage Engine holder
+    4300022: Interstage Engine holder extra
+    4300024: Landing Leg Hydraulic Holder 3
+    4300026: Landing Leg Hydraulic 1.003
+    4300028: Landing Leg Hydraulic 2.003
+    4300030: Landing Leg Hydraulic 3.003
+    4300032: Landing Leg Hydraulic 4.003
+    4300034: Landing Leg Hydraulic Holder 2
+    4300036: Landing Leg Hydraulic 1.002
+    4300038: Landing Leg Hydraulic 2.002
+    4300040: Landing Leg Hydraulic 3.002
+    4300042: Landing Leg Hydraulic 4.002
+    4300044: Landing Leg Hydraulic Holder 1
+    4300046: Landing Leg Hydraulic 1.001
+    4300048: Landing Leg Hydraulic 2.001
+    4300050: Landing Leg Hydraulic 3.001
+    4300052: Landing Leg Hydraulic 4.001
+    4300054: Landing Leg Hydraulic Holder 4
+    4300056: Landing Leg Hydraulic 1.004
+    4300058: Landing Leg Hydraulic 2.004
+    4300060: Landing Leg Hydraulic 3.004
+    4300062: Landing Leg Hydraulic 4.004
+    4300064: Octaweb
+    4300066: Merlin 1D Engine Outer
+    4300068: Merlin 1D Engine Center
+    4300070: Engine Cloth
+    4300072: Engine Holder Detail Outer
+    4300074: Raceway Main First Stage
+    4300076: Raceway Main Detail 2 First Stage
+    4300078: Raceway Main Detail First Stage
+    4300080: Raceway First Stage
+    4300082: Raceway Holders 2 First Stage
+    4300084: Raceway Holders 1 First Stage
+    4300086: Landing Leg Holders
+    4300088: First Stage Bottom Things
+    4300090: Landing Leg 2
+    4300092: Landing Leg 2 Hydraulic Attachment
+    4300094: Landing Leg 1
+    4300096: Landing Leg 1 Hydraulic Attachment
+    4300098: Landing Leg 4
+    4300100: Landing Leg 4 Hydraulic Attachment
+    4300102: Landing Leg 3
+    4300104: Landing Leg 3 Hydraulic Attachment
+    4300106: Landing Leg Clamps
+    4300108: Second Stage Detacher Interstage
+    4300110: Grid Fin Holders
+    4300112: Fairing 2
+    4300114: Fairing 2 Detail
+    4300116: Fairing 1
+    4300118: Fairing 1 Detail
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
